@@ -1,0 +1,3 @@
+qc_id,equipment,method,batch_scope,decision,checked_on
+Q1,E1,cbc,B1,pass,2025-07-31
+Q2,E2,cbc,B2,pending,2025-07-31

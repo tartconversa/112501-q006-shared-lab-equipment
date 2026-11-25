@@ -1,0 +1,3 @@
+equipment,clinic,method,valid_from,state
+E1,Q1,cbc,2025-07-01,available
+E2,Q2,cbc,2025-07-01,calibration
